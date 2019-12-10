@@ -7,6 +7,7 @@ TagManager:
   - Fire
   - navpoint
   - flee
+  - waypoint
   layers:
   - Default
   - TransparentFX
