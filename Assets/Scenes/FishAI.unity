@@ -1727,7 +1727,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Waypoints: []
-  m_SpawnTimer: 0
+  m_SpawnTimer: 5
   m_SpawnColor: {r: 1, g: 0, b: 0, a: 0.3}
   m_SpawnArea: {x: 54.76, y: 37.7, z: 71}
   AIObject:
