@@ -1731,40 +1731,13 @@ MonoBehaviour:
   m_SpawnColor: {r: 1, g: 0, b: 0, a: 0.3}
   m_SpawnArea: {x: 54.76, y: 37.7, z: 71}
   AIObject:
-  - m_aiGroupName: 
-    m_prefab: {fileID: 0}
-    m_maxAI: 0
-    m_spawnRate: 0
-    m_maxSpawnAmount: 0
-    m_enableSpawner: 0
-    m_randomizeStats: 0
-  - m_aiGroupName: 
-    m_prefab: {fileID: 0}
-    m_maxAI: 0
-    m_spawnRate: 0
-    m_maxSpawnAmount: 0
-    m_enableSpawner: 0
-    m_randomizeStats: 0
-  - m_aiGroupName: 
-    m_prefab: {fileID: 0}
-    m_maxAI: 0
-    m_spawnRate: 0
-    m_maxSpawnAmount: 0
-    m_enableSpawner: 0
-    m_randomizeStats: 0
-  - m_aiGroupName: 
-    m_prefab: {fileID: 0}
-    m_maxAI: 0
-    m_spawnRate: 0
-    m_maxSpawnAmount: 0
-    m_enableSpawner: 0
-    m_randomizeStats: 0
-  - m_aiGroupName: 
-    m_prefab: {fileID: 0}
-    m_maxAI: 0
-    m_spawnRate: 0
-    m_maxSpawnAmount: 0
-    m_enableSpawner: 0
+  - m_aiGroupName: Sharks
+    m_prefab: {fileID: 4833627711156948512, guid: 8d1c390ce73b8f642a4a3269dff01c4e,
+      type: 3}
+    m_maxAI: 10
+    m_spawnRate: 2
+    m_maxSpawnAmount: 4
+    m_enableSpawner: 1
     m_randomizeStats: 0
 --- !u!4 &2114576312
 Transform:
